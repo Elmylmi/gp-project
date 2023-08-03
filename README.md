@@ -5,5 +5,5 @@ Student Name: Chin Wing Tung 126070873, Lai Elmy 126116418, Ma Ka Wing 126116424
 
 
 ## Statistics 
-Life satisfaction in Canada and Netherlands
+Life satisfaction in Canada and Netherlands:
 https://ourworldindata.org/happiness-and-life-satisfaction

@@ -10,3 +10,6 @@ https://ourworldindata.org/happiness-and-life-satisfaction
 
 Human Development Index:
 https://ourworldindata.org/human-development-index
+
+GDP:
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD

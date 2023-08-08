@@ -2,7 +2,10 @@
 ### Country Comparison: Use of Cannabis in Canada and Netherlands
 Student Name: Chin Wing Tung 126070873, Lai Elmy 126116418, Ma Ka Wing 126116424, Ruishen Wu 126110871
 - Contribution:
-
+Chin Wing Tung: brainstorming the topic and presentation flow; data collection
+Lai Elmy: data collection; generating the map
+Ma Ka Wing: generating codes
+Ruishen Wu: generating codes
 
 ## Statistics 
 Life satisfaction in Canada and Netherlands:
